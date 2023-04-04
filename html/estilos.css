@@ -1,0 +1,48 @@
+@font-face {
+    font-family: Dosis;
+    src: url(Dosis-VariableFont_wght.ttf);
+}
+
+body{
+background-color: cornflowerblue;
+    font-family: Dosis;    
+
+}
+.texto-centrado{
+    text-align: center;
+   background-color: aliceblue;
+    
+}
+
+ #imagen-boton2{
+margin:auto;
+
+}
+#imagen-boton5{
+    margin:auto; 
+    }
+
+#imagen-boton4{
+    margin:auto;
+    }
+
+#imagen-boton3{
+    margin:auto; 
+    }
+#imagen-boton6{
+    margin:auto; 
+    }
+
+    a{
+        width: 50px;
+    }
+    img{
+       width: 150px;
+        }
+    #imagen-boton{
+ margin: 5% 40% 5% 40%;
+ display: block;
+ border-radius: 100%;
+
+
+}
